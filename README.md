@@ -1,7 +1,7 @@
 # 🔥 Summer Heatwave Alert System
 
 A real-time mobile + AI-based alert system that predicts extreme heatwaves and notifies users instantly via an Android app, using live weather data and a machine learning model.
-
+Deployed app: Deployed App: https://heatwave-alert-system-3.onrender.com/predict
 ## 📱 Project Overview
 
 **Summer Heatwave Alert System** is designed to enhance public safety during rising climate challenges. The system leverages:
